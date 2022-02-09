@@ -4,3 +4,5 @@ node_modules/
 .public
 .firebaserc
 firebase.json
+public/*
+dist/
