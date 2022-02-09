@@ -1,4 +1,5 @@
 # Forked from [dfinity/icfront](https://github.com/dfinity/icfront)
+- run `make setup` and then `make build`
 # Secure custom domains for smart contracts on the Internet Computer using static hosting.
 
 All smart contracts, including Web3 dapps, on the Internet Computer blockchain are secured by
