@@ -1,0 +1,6 @@
+.vercel
+.node_modules
+.firebase
+.public
+.firebaserc
+firebase.json
