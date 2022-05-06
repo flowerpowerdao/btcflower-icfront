@@ -55,3 +55,6 @@ storage and bandwidth, sufficient for loading the custom service worker.
 
   This will require telling firebase about your domain and pointing your DNS to firebase.
   Firebase will automatically generate a TLS certificate.
+
+# deployment steps
+https://forum.dfinity.org/t/btcflower-xyz-seems-to-be-hosted-on-ic-but-why-this-domain-name-does-not-need-redirection/10787/5?u=cryptoschindler
